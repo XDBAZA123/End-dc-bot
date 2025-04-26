@@ -1,7 +1,7 @@
 const { PermissionsBitField, EmbedBuilder } = require('discord.js');
 
 // List of banned words
-const bannedWords = [ 'niger', '<@&${1132738644927582321}>', 'niggy', 'discord.gg/', 'https://discord.gg/', 'n i g g e r', 'nggas', 'n 1 g g e r', 'fag', 'n1g3r', 'nigga', 'n1g', 'faggot', 'f@g', 'faggy', 'fagy', 'paki', 'chink', 'chinkabella', 'doxx', 'ddos', 'doxxed', 'doxed', 'ddosed', 'dosed']; // Add your banned words here
+const bannedWords = [ 'niger', '<@&${1132738644927582321}>', 'nigger', 'nihgger', 'kys', 'niggy', 'discord.gg/', 'https://discord.gg/', 'n i g g e r', 'nggas', 'n 1 g g e r', 'fag', 'n1g3r', 'nigga', 'n1g', 'faggot', 'f@g', 'faggy', 'fagy', 'paki', 'chink', 'chinkabella', 'doxx', 'ddos', 'doxxed', 'doxed', 'ddosed', 'dosed']; // Add your banned words here
 
 // ID of the channel to send the embed to
 const logChannelId = '1365637666607075339'; // Replace with your log channel ID
